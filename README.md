@@ -19,9 +19,9 @@ O objetivo do projeto é **praticar conceitos de front-end**, como:
 Interface com duas telas:
 
 * 🔑 Login
-  ![Preview do Projeto](https://github.com/elivaldobraga23/tela-login-cadastro-animado/blob/main/img/tela-login.png)
+  ![Preview do Projeto](https://github.com/elisvaldobraga23/tela-login-cadastro-animado/blob/main/img/tela-login.png)
 * 📝 Cadastro
-  ![Preview do Projeto](https://github.com/elivaldobraga23/tela-login-cadastro-animado/blob/main/img/tela-registro.png)
+  ![Preview do Projeto](https://github.com/elisvaldobraga23/tela-login-cadastro-animado/blob/main/img/tela-registro.png)
 
 Com animação suave ao alternar entre elas.
 
@@ -30,7 +30,7 @@ Com animação suave ao alternar entre elas.
 
 Você pode acessar o projeto funcionando no navegador:
 
->🔗https://elivaldobraga23.github.io/tela-login-cadastro-animado/
+>🔗https://elisvaldobraga23.github.io/tela-login-cadastro-animado/
 ---
 
 ## 🚀 Tecnologias utilizadas
@@ -119,7 +119,7 @@ Este repositório foi criado **apenas para fins de estudo e prática de desenvol
 
 Desenvolvido por **Elisvaldo Braga**
 
-* GitHub: [https://github.com/elivaldobraga23](https://github.com/elivaldobraga23)
+* GitHub: [https://github.com/elivaldobraga23](https://github.com/elisvaldobraga23)
 * LinkedIn: [https://www.linkedin.com/in/elisvaldo-braga/](https://www.linkedin.com/in/elisvaldo-braga/)
 
 ---
